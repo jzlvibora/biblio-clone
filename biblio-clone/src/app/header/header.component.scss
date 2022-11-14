@@ -1,0 +1,35 @@
+.navbar-dark{
+    background-color: black!important;
+}
+
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+
+.navbar-collapse li{
+    color:white !important;
+    font-weight: 600;
+}
+
+.navbar-brand{
+    margin-right:30rem;
+}
+
+// ul{
+//     text-transform:uppercase;
+// }
+// li{
+//     list-style: none;
+// }
+
+// header{
+// display:flex;
+// justify-content: space-between;
+// }
+
+// .navbar-nav{
+//     display: flex !important;
+//     flex-direction: row!important;
+// }
